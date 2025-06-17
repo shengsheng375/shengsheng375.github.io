@@ -15,8 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 ---
-
-Edison Sun is a mechanical engineering student at Northwestern University pursuing dual Bachelor's degrees in Mechanical Engineering and Integrated Science. As a member of Northwestern's selective Integrated Science Program, he focuses on advanced research at the intersection of engineering and medicine.
-
-Currently an Undergraduate Research Assistant at Northwestern's Biomedical Engineering Department and Feinberg School of Medicine, Edison develops deep-learning workflows for medical imaging applications. His research spans thoracic aorta segmentation, robotic optical coherence tomography for glaucoma diagnostics, and spectroscopic single-molecule localization microscopy. His work has been published in peer-reviewed journals including Analytical Chemistry and Investigative Ophthalmology & Visual Science.
-
+Edison Sun is an second-year undergraduate at Northwestern University, pursuing a B.S. in Mechanical Engineering, B.A. in Integrated Science, and a B.S minor in Computer Science. He is interested in the intersection of robotics with medicine. As a Undergraduate Research Assistant, he previously has developed a robotic visible-light optical coherence tomography system to image beyond the optical field-of-view limit. Currently, he is developing image segmentation neural networks to assist in the risk prediction of aortic pathologies.
