@@ -5,7 +5,7 @@
     "image": "",
     "email": "edisonsun31@gmail.com",
     "url": "https://edisonsun.net",
-    "summary": "An undergraduate student at Northwestern University, majoring in Mechanical Engineering and Computer Science.",
+    "summary": "An undergraduate student at Northwestern University, majoring in Mechanical Engineering, Intergrated Science and minoring inComputer Science.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -20,8 +20,7 @@
       "position": "Undergraduate Research Assistant",
       "url": "https://cvmri.northwestern.edu/",
       "startDate": "2025-2-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Developed and optimized a cross-institutional, two-stage deep-learning workflow for thoracic aorta segmentation in computed tomography angiography scans (CTA), trained on over 380 paired scans from German and U.S. centers—achieving median Dice scores of ~0.95 on same-site data and over 0.93 when combining both datasets, dramatically cutting manual segmentation time. Facilitated an automated preprocessing pipeline that uses lung detection to crop and resample CTA volumes, standardizing inputs for the segmentation model."
     },
     {
       "name": "Functional Optical Imaging Laboratory @ Northwestern Unversity, Department of Biomedical Engineering",
@@ -29,8 +28,7 @@
       "url": "https://foil.northwestern.edu/",
       "startDate": "2023-5-01",
       "endDate": "2023-10-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Succeeded advancing diagnostic imaging for glaucoma through developing a robotic system for anterior segment optical coherence tomography (OCT). Created a feature-based montaging algorithm addressing robotic positioning inaccuracies, facilitating precise alignment of multiple OCT scans without reliance on robotic coordinates alone. Improved visualization of ocular aqueous humor outflow pathways essential for glaucoma management. "
     },
     {
       "name": "Functional Optical Imaging Laboratory @ Northwestern Unversity, Department of Biomedical Engineering",
@@ -38,8 +36,7 @@
       "url": "https://foil.northwestern.edu/",
       "startDate": "2021-8-01",
       "endDate": "2022-9-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "Assisted in the development of SpeNet, a spectral classification neural network aimed to improve imaging accuracy in spectroscopic single-molecule localization microscopy (sSMLM) for visualizing low-abundance protein interactions. Drove molecular misidentification down to ≤1.7% (0.5% with score cut-off); a 3 to 1l times improvement over conventional spectral-filtering. Devised an image segmentation model under Dr. Benjamin Brenner, analyzing outer membrane protein distribution using the TOMM20 marker. Produced a supervised learning model to distinguish between adjacent mitochondrial structures in super-resolution images."
     }
 
     
@@ -58,12 +55,27 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Northwestern Biomedical Engineering Department Summer Research Award 2025",
+      "date": "2025-06-10",
+      "awarder": "Northwestern University, Department of Biomedical Engineering",
+      "url": "https://www.mccormick.northwestern.edu/biomedical/academics/undergraduate/research-opportunities/summer-research-awards.html",
+      "summary": "Awarded a $5400 grant to conduct summer research in the Cardiovascular MRI Group at Northwestern University Feinberg School of Medicine, focusing on deep learning for thoracic aorta segmentation in computed tomography angiography scans."
+    },
+    {
+      "title": "Junior Science and Humanities Symposium Outstanding Achievement Award 2024",
+      "date": "2024-04-13",
+      "awarder": "Junior Science and Humanities Symposium",
+      "url": "https://www.jshs.org/",
+      "summary": "Recognized for outstanding research in the field of robotic optical coherence tomography. Invited to present at the National Junior Science and Humanities Symposium in Chicago, IL."
+    },
+    {
+      "title": "Biomedical Engineering Society High School Poster Competition Honorable Mention, 2023",
+      "date": "2023-08-10",
+      "awarder": "Biomedical Engineering Society",
+      "url": "https://www.bmes.org/2024/annualmeeting/high-school-poster-expo",
+      "summary": "Received Honorable Mention in the High School Poster Competition at the 2023 Biomedical Engineering Society Annual Meeting for research on robotic optical coherence tomography. Presented findings on a novel robotic system for anterior segment imaging, enhancing glaucoma diagnostics."
     }
+
   ],
   "certificates": [
     {
@@ -71,42 +83,21 @@
       "date": "2024-03-04",
       "issuer": "MathWorks",
       "url": "https://www.credly.com/badges/b2afb884-ada6-4b4a-9533-4b77f859b78d",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-code"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Human Research Protections (IRB) Basic",
+      "date": "2025-02-01",
+      "issuer": "CITI Program",
+      "url": "https://about.citiprogram.org/",
+      "icon": "fa-solid fa-plus-square"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Good Clinical Practice (GCP) Basic",
+      "date": "2025-02-01",
+      "issuer": "CITI Program",
+      "url": "https://about.citiprogram.org/",
+      "icon": "fa-solid fa-plus-square"
     }
   ],
   "publications": [
@@ -134,42 +125,44 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Programming Languages",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Arduino",
+        "MATLAB",
+        "Java",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "Software",
+      "level": "Master",
+      "icon": "fa-solid fa-gear",
+      "keywords": [
+        "Fusion 360",
+        "3D Slicer",
+        "Blender",
+        "ChemDraw",
+        "LabView",
+        "NI Multisim"
       ]
     }
   ],
   "interests": [
     {
       "name": "Medical Imaging",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-heart",
       "keywords": [
         "Computed Tomography",
         "Magnetic Resonance Imaging",
         "Optical Coherence Tomography"
       ]
-    },
-    {
-      "name": "Medical Imaging",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Computed Tomography",
-        "Magnetic Resonance Imaging",
-        "Optical Coherence Tomography"
-      ]
-
     },
     {
       "name": "Computer Vision",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-camera",
       "keywords": [
         "Image segmentation",
         "Image classification"
@@ -177,15 +170,5 @@
       ]
     }
 
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
   ]
 }

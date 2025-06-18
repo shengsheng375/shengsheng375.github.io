@@ -97,7 +97,7 @@ collections:
   books:
     output: false
   projects:
-    output: true
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -143,6 +143,8 @@ exclude:
   - _pages/profiles.md
   - _pages/dropdown.md
   - _books
+  - _projects
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
@@ -586,10 +588,7 @@ jsonresume:
   - education
   - publications
   - projects
-  - volunteer
   - awards
   - certificates
   - skills
-  - languages
   - interests
-  - references
